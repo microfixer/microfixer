@@ -1,45 +1,59 @@
 <img src="https://user-images.githubusercontent.com/105043376/181043484-d90c5f05-20f0-457e-86a7-5897e3b6bc46.png" alt="microfixer" width="250" height="250">
 
-# Validator microfixer
+
+
+   - http://validarium.net
+
+# Validarium
 - [Will be updated soon]()
 
 ## Active Mainnets:
 - [Will be updated soon]()
 
 ### Active Testnets:
-- [Minima]()
+- [Subspace]()
 - [Masa]()
 - [Starknet]()
 - [Ironfish]()
+- [Muon]()
 
 #### Finished Testnets:
-- [Will be updated soon]()
+- [Aptos]()
+- [Minima]()
 
 ## Active devnets:
-- [Bundlr]()
 - [Gear]()
 - [Oasys]()
 - [Peaq]()
-- [Sui]()
 - [Gnoland]()
 
 ## Contributions 
-- [Will be updated soon]()
-
-### Techcnical
-- [Will be updated soon]()
+- [Muon node telegram alert bot](http://t.me/Muon_node_status_alert_bot)
 
 ### Community
-- [Will be updated soon]()
+- [Validarium](https://validarium.net)
 
 ## Other Activities:
 - [Will be updated soon]()
 
 ### Contacts:
 - [GitHub](https://github.com/microfixer)
-- [Medium]()
-- [Twitter]()
+- [Twitter](https://twitter.com/microdevops)
 - [Telegram](https://t.me/microfixer)
-- [Discord]()
 - [Keybase](https://keybase.io/microfixer)
-- [Web-page](http://validarium.net)
+- [Web-page](https://validarium.net)
+
+### Infrastructure
+
+ Bare metal servers  
+ Data center colocation  
+
+  1x AMD EPYC 7402P 24-Core Processor  
+  1x 240GB SSD  
+  2x 480GB SSD  
+  1x 8TB HDD  
+  64GB RAM  
+  1x 1Gbps  
+  Debian 11 "bullseye"  
+  KVM  
+  
